@@ -1,8 +1,5 @@
 # 类型转换 type casting
 
-from os import X_OK
-
-
 name = "peter"
 age = 25
 height = 1.75
@@ -12,7 +9,6 @@ is_student = True
 # print(type(age))
 # print(type(height))
 # print(type(is_student))
-
 
 
 # 显式类型转换
