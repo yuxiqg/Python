@@ -26,10 +26,10 @@ is_student = True
 # print(type(is_student))
 
 
-# 隐式类型转换
+# # 隐式类型转换
 
-x = 25
-y = 5.0
-x = x / y
-print(x)
-print(type(x))
+# x = 25
+# y = 5.0
+# x = x / y
+# print(x)
+# print(type(x))

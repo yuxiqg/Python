@@ -53,5 +53,4 @@
 # is_student = True
 # print(is_student)
 # print(f"我是学生吗？{is_student}")
-# print(type(is_student))
-      
+# print(type(is_student))     
